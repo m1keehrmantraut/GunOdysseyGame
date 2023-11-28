@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - ShootEffect
+  - EnemyShoot
+  - Score
+  - Meteor
+  - Shop
+  - Wave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - Walls
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 350976297
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3351737241
+    locked: 0
+  - name: UI
+    uniqueID: 1734977475
+    locked: 0
+  - name: Cursor
+    uniqueID: 1904488601
+    locked: 0
